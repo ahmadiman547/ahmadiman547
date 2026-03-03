@@ -9,6 +9,7 @@ Backend-focused Software Engineer with experience in building RESTful services u
 - OAuth2 / OIDC
 - MySQL
 - Docker
+- Currently exploring C# and .NET ecosystem
 
 ## 📌 Featured Project
 Workflow-driven monitoring system (architecture & design overview)
